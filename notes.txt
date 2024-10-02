@@ -1,0 +1,16 @@
+Kullanıcı bilgileri
+    Tc no yada yabancı no
+    telefon no
+    isim soyisim
+    cinsiyet
+    mail
+    doğum tarihi
+
+
+Otel bilgileri
+    Adres
+    isim
+    telefon
+    mail
+    vergi no
+    puan
